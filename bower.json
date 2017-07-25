@@ -1,0 +1,25 @@
+{
+  "name": "fetch-import",
+  "authors": [
+    "Moritz Gunz <moritz.gunz@gmail.com>"
+  ],
+  "description": "A HTML import for GitHub\"s fetch polyfill",
+  "main": "fetch.html",
+  "keywords": [
+    "fetch",
+    "polyfill",
+    "import"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/NeoLegends/fetch-import",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fetch": "^2.0.3"
+  }
+}
